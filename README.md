@@ -1,5 +1,4 @@
-# Developer Portfolio (Frontend + Full Stack) — React & Vite
-
+# Developer Portfolio (Frontend + Full Stack)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-0055FF)](https://www.framer.com/motion/)
